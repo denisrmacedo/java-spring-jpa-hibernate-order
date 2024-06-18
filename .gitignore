@@ -13,6 +13,10 @@ target/
 .springBeans
 .sts4-cache
 
+### Ignore Mac DS_Store files ###
+.DS_Store
+**/.DS_Store
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
